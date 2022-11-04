@@ -1,0 +1,17 @@
+target
+*.log
+*.ctxt
+.idea
+*.iml
+terraform.tfvars
+terraform.tfstate*
+.terraform/
+.terraform.tfstate.lock.info
+config_map_aws_auth.yaml
+config.sh
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+temp.*
+*.retry
+__pycache__
